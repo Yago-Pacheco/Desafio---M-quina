@@ -1,3 +1,6 @@
-# Desafio---Maquina
+#***Desafio-Previsão-de-Falha***
+*by [Yago Pacheco](https://www.linkedin.com/in/yago-pacheco-de-aquino-958881183/)*
 
-Este código tem como objetivo, prever quais das 8 máquinas terão ou tem uma falha.
+---
+
+Prever quais das 8 máquinas tem ou terão uma falha mecânica ou elétrica.
